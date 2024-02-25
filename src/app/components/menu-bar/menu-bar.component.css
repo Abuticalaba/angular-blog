@@ -6,4 +6,10 @@
 .container__menu-bar ul li{
     margin-right: 20px;
     list-style: none;
+    padding: 10px;
+}
+
+.container__menu-bar ul li:hover{
+    filter: brightness(1.5);
+    border-radius: 20px;
 }
